@@ -1,6 +1,6 @@
 # Decision Tree Classification for National Flags
 
-This repository contains the implementation of a binary Decision Tree (DT) classification algorithm from scratch. The purpose is to predict the predominant color of national flags using a diverse set of features, including country features such as language, population, and other structural properties. The dataset used is a modified version of the Flags dataset from the UCI Machine Learning repository.
+This repository contains the implementation of a binary Decision Tree (DT) classification algorithm as part of the Introduction to Machine Learning (COMP90049) course at The University of Melbourne. The purpose is to predict the predominant color of national flags using a diverse set of features, including country features such as language, population, and other structural properties. The dataset used is a modified version of the Flags dataset from the UCI Machine Learning repository.
 
 ## Project Structure
 
